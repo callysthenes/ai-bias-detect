@@ -1,5 +1,11 @@
 # ai-bias-detect
+
+![image](https://user-images.githubusercontent.com/91435423/181649384-47ccf79c-f0bf-4d5e-8c3b-dacd0a14a4cb.png)
+
 Welcome to Group A's group work. We would like to introduce an AI bias detection, a compilation and comparison between two powerful AI libraries for bias detection.
+
+![image](https://user-images.githubusercontent.com/91435423/181649485-77a397be-6cb2-41c7-b2e6-60e37bd28f2b.png)
+
 This repository has a comparison between Google's What If Bias tool and fairdetect by Ryan Daher with some added improvements.
 The whole analysis is displayed in two Jupyter notebooks for added convenience.
 
@@ -25,6 +31,9 @@ The whole analysis is displayed in two Jupyter notebooks for added convenience.
 
 ## Some noticed bugs:
 
+![image](https://user-images.githubusercontent.com/91435423/181649718-ed262cec-d30e-4bdd-a9ba-423dce06281d.png)
+
+
 - In Apple hardware, sometimes the Kernel dies without explanation
 - Pandas Profiling Tool does not seem to work consistently accross different machines running other versions of Jupyter or Python
 - Google's Whatif Tool does not receive correctly the API key to unlock extra functionalities like mitigation strategies
@@ -32,4 +41,3 @@ The whole analysis is displayed in two Jupyter notebooks for added convenience.
 ## To improve: 
 
 - Add persistent changes functionality to the DB after running a ML model forecasting the output of y
-- 
