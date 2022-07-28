@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "folkloric-grid-353308",
+  "private_key_id": "b25b0473744301ab3db8d04194f1e4a29c2c7874",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEier15A+KHWSG\nbbR0FZrrfJaXlllbFvSPPTfHV04M/g4BSz97ooyfZCNAElKzxdSTMuYFOyvSlPUM\nzJRlkLptSzSvtIZECUQszm+b6pI/lA0hnx3/G8q3/gXV2xWSmGCnbHbjHT9jAUTJ\nQnrWEVjAyc1ZDEgVgRzPLcEn3Sb80aGygww1nvMdrZoRro5fk3Wjd7k8dZfjOdgM\njH7DnWnTNI2kUEfLf4NpcQxL08yErxOHrAmxycyKmyKTJiEzDsAkyPL88RTiX/us\ndNQw+EsEjN2EokuN2JNDpeCFww1JSAKZ4BfSA2UiVo33tzIv/bc+SCZBZ8g5Ulx3\nI8Y7JtKXAgMBAAECggEAUcvipXbGvuEvwsDqvvt07/f4xtsUklQR8YF1cvnTapXb\np081exOyOe4Xu6VElTxLFf4zfE7dlLVY7XxBcKnU5QLNSSk1TiCbJpi+G6J7Pom0\nE1+hQNjEvGG09QXKyymu5E9AhZJZHK/c/HQ2Ilyy1v3GAH8bixOitVkiECC7BrHO\nPFJJPFxHJzyBOtOtvmxrlqjhtqiz79AAcdOgdkKmP0rT7WxK6BHf31HtuB7QCPNA\nXk0u/8Top5cIH1Cgt1GlP62YXN5GFxIhuhtedhuDDQ/dKG544UUflV3x74ePRYtx\n2s8N0nflULJYKJM19C+HhhhyaKCOdYFGpzTzghRJlQKBgQD/FoLB1doGCs4bRTQe\nWR9QxrU9F9zqTlRvHVTIgCCVhQHiEFDj6XoAweFTSPV9M+rLEu+k402PjSyxQ41T\nKdQ0mDuS2GirJ1kV+W4om/Sg/yGErAcyZQ9fnmzabDy2tsDUQYYu6pI/9TZz66h9\nQcIWHQ/CebQftcOrbMp/dZqr0wKBgQDFPdC379SWBDOhEBgDf0xCYTFAaXIyG5Tp\nMk5XyI1xJCnO3IE/b01Q+WDoCbEG6WFjMgWTd9Uj8ursX4WoXfM7WYrYgWOd4Ql4\niVt2/oFZ9wzz8AM5ouTfSDIskm1GhsoIHpLY032Xu5NXRCNoHAkNcvhYqEYotnfN\nkroS8FRXrQKBgQC7zF3dyMxnsGLHDu7s/N4iQPjDjqL02VAuMeDub+4NRkv5m9uB\nv60zi4mRIGCjmapdcYZ+1V2PtvbVVo9gT6ZMRltto+eDQkfC9szUFuVF9i8+FsyB\nnIdx9Rfcwtz8A5X5bngUaFvdvHEnbLKx7MywLRsiKSmkQtRYi5KVvgZuQwKBgQCn\nRMbuVgs4tZN7MYTL4navjHESKNpZOB7OrITX2RJqMrrp3QIW47Lzyqit3xorvFuE\nnfUwnF06wVUM4+0bXaFaYZNoDEKIr0Ey4XmZrjfQLbzkWlTB2iyyVi2Gsx7Mwp4u\nyI7MJn7J4J8RUI2eSrg6mZeWyA3HlQaAZcA7M2izeQKBgDfP3SSlF/AAgIMc3um5\nSFiiLOCEFuVMA1PnbaVSOfWjC2VTuemPJhXW8oAOwbd/J7IUbc40wQuxTuZBFXpA\nblqLlYiwSBlZERl9up8RDNpl/0jM+EkiBAZiR2oduwo3u9Hy4v4gpOIFT2EnUKYY\n7Jogw9rueRSveF9dZ181Lm9V\n-----END PRIVATE KEY-----\n",
+  "client_email": "synthetic-credit-card@folkloric-grid-353308.iam.gserviceaccount.com",
+  "client_id": "111658316751143193810",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/synthetic-credit-card%40folkloric-grid-353308.iam.gserviceaccount.com"
+}
