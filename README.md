@@ -27,6 +27,7 @@ The whole analysis is displayed in two Jupyter notebooks for added convenience.
 
 ## How to use ai-bias-detect?
 
+- Do a 'pip install ai-bias-detect' and 'import ai-bias-detect' or...
 - Simply use the python notebook provided as a template
 - If you want to transform your file in a db, modify the sqlalchemy file
 - Replace it with a file you want to analyze for bias unfairness
