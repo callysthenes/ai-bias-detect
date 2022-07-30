@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+fair_detect_group_a/__init__.py
+fair_detect_group_a/setup.py
+fair_detect_group_a.egg-info/PKG-INFO
+fair_detect_group_a.egg-info/SOURCES.txt
+fair_detect_group_a.egg-info/dependency_links.txt
+fair_detect_group_a.egg-info/not-zip-safe
+fair_detect_group_a.egg-info/top_level.txt
